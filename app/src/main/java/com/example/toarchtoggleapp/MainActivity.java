@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     CameraManager cm;
     String cameraid;
+    
     ToggleButton tb;
   //  ImageView iv; and imageview ko daal xml ke deign ma
 
